@@ -10,7 +10,7 @@ A simple web application which uses Machine Learning algorithm to predict the he
 As being a Data and ML enthusiast I have tried many different projects related to the subject but what I have realised is that Deploying your machine learning model is a key aspect of every ML and Data science project. Everything thing I had studied or been taught so far in my Data science and ML journey had mostly focused on defining problem statement followed by Data collection and preparation, model building and evaluation process which is of course important for every ML/DS project but what if I want different people to interact with my models, how can I make my model available for end-users? I can't send them jupyter notebooks right!. That's why I wanted to try my hands on complete end-to-end machine learning project. 
 
 - To get the Code for Exploratory data analysis/visualisations, different algorithms used and the model evaluation, click on the link mentioned below :
-  **Link of jupyter notebook -** *[https://github.com/asthasharma98/Data-Science/blob/main/Heart%20Disease%20Prediction/heart_disease_prediction.ipynb](https://github.com/asthasharma98/Data-Science/blob/main/Heart%20Disease%20Prediction/heart_disease_prediction.ipynb)*
+  **Link of jupyter notebook -** *[https://github.com/CodeWizardl/Heart-Disease-Prediction-Deployment-Master/blob/main/Heart%20Disease%20Prediction/heart_disease_prediction.ipynb](https://github.com/CodeWizardl/Heart-Disease-Prediction-Deployment-Master/blob/main/Heart%20Disease%20Prediction/heart_disease_prediction.ipynb)*
 
  ## Technical Aspect
  
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 *To clone the repository*
 
 ```
-git clone https://github.com/asthasharma98/Heart-Disease-Prediction-Deployment.git
+git clone https://github.com/CodeWizardl/Heart-Disease-Prediction-Deployment-Master.git
 ```
 
 *To Run the Application*
@@ -57,4 +57,6 @@ python app.py
 - **Security Enhancements:** Implement additional security measures, such as input validation, to ensure the safety of user data.
 
 ## Screenshots
+![https://github.com/CodeWizardl/Heart-Disease-Prediction-Deployment-Master/blob/main/Readme_resources/Main.png](https://github.com/CodeWizardl/Heart-Disease-Prediction-Deployment-Master/blob/main/Readme_resources/Main.png)
+![https://github.com/CodeWizardl/Heart-Disease-Prediction-Deployment-Master/blob/main/Readme_resources/Result.png](https://github.com/CodeWizardl/Heart-Disease-Prediction-Deployment-Master/blob/main/Readme_resources/Result.png)
 
