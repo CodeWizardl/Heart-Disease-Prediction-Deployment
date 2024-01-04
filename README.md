@@ -57,6 +57,6 @@ python app.py
 - **Security Enhancements:** Implement additional security measures, such as input validation, to ensure the safety of user data.
 
 ## Screenshots
-![https://github.com/CodeWizardl/Heart-Disease-Prediction-Deployment-Master/blob/main/Readme_resources/Main.png](https://github.com/CodeWizardl/Heart-Disease-Prediction-Deployment-Master/blob/main/Readme_resources/Main.png)
+![./Readme_resources/Main.png](./Readme_resources/Main.png)
 ![https://github.com/CodeWizardl/Heart-Disease-Prediction-Deployment-Master/blob/main/Readme_resources/Result.png](https://github.com/CodeWizardl/Heart-Disease-Prediction-Deployment-Master/blob/main/Readme_resources/Result.png)
 
